@@ -1259,7 +1259,7 @@ nop
               <CheatEntries>
                 <CheatEntry>
                   <ID>601064</ID>
-                  <Description>"添加物品v2.1，一键添加"</Description>
+                  <Description>"添加物品v2.2，一键添加"</Description>
                   <Options moHideChildren="1"/>
                   <Color>4080FF</Color>
                   <VariableType>Auto Assembler Script</VariableType>
@@ -4342,7 +4342,7 @@ CREATETHREAD(ItemSpawn_)
             </CheatEntry>
             <CheatEntry>
               <ID>1337192611</ID>
-              <Description>"角色名字（若改中文名字，重新读档后生效）"</Description>
+              <Description>"角色名字（请勿使用）"</Description>
               <ShowAsSigned>0</ShowAsSigned>
               <Color>C0C0C0</Color>
               <VariableType>String</VariableType>
@@ -27712,19 +27712,6 @@ unregistersymbol(CameraStateCheck)
 7081000:毒剥尸曲剑
 7081100:血剥尸曲剑
 7081200:神秘剥尸曲剑
-7090000:Sharktooth Curved Sword
-7090100:Heavy Sharktooth Curved Sword
-7090200:Sharp Sharktooth Curved Sword
-7090300:Quality Sharktooth Curved Sword
-7090400:Flame Sharktooth Curved Sword
-7090500:Pyromancy Sharktooth Curved Sword
-7090600:Lightning Sharktooth Curved Sword
-7090700:Blessed Sharktooth Curved Sword
-7090800:Magic Sharktooth Curved Sword
-7090900:Frost Sharktooth Curved Sword
-7091000:Poison Sharktooth Curved Sword
-7091100:Blood Sharktooth Curved Sword
-7091200:Arcane Sharktooth Curved Sword
 7100000:日蚀钩剑
 7110000:蛇神弯刀
 7110100:厚重蛇神弯刀
@@ -27956,8 +27943,6 @@ unregistersymbol(CameraStateCheck)
 10031100:血骑士双头剑
 10031200:神秘骑士双头剑
 10050000:艾琉诺拉的双头刀
-10060000:丰饶与腐败双刃剑
-10070000:Abundance Twinblade
 10080000:石像鬼双头剑
 10080100:厚重石像鬼双头剑
 10080200:锋利石像鬼双头剑
@@ -28104,7 +28089,7 @@ unregistersymbol(CameraStateCheck)
 11100000:众使者的笛子
 11110000:百智权杖
 11120000:诺克斯流体锤
-11130000:Ringed Finger
+11130000:戒指指头
 11140000:石棍棒
 11140100:厚重石棍棒
 11140200:锋利石棍棒
@@ -28426,19 +28411,6 @@ unregistersymbol(CameraStateCheck)
 14111100:血活祭品斧
 14111200:神秘活祭品斧
 14120000:罗泽司的斧
-14130000:Burial Axe
-14130100:Heavy Burial Axe
-14130200:Sharp Burial Axe
-14130300:Quality Burial Axe
-14130400:Flame Burial Axe
-14130500:Pyromancy Burial Axe
-14130600:Lightning Burial Axe
-14130700:Blessed Burial Axe
-14130800:Magic Burial Axe
-14130900:Frost Burial Axe
-14131000:Poison Burial Axe
-14131100:Blood Burial Axe
-14131200:Arcane Burial Axe
 14140000:风暴鹰斧
 15000000:巨斧
 15000100:厚重巨斧
@@ -29621,7 +29593,7 @@ unregistersymbol(CameraStateCheck)
 31141000:毒大乌龟壳
 31141100:血大乌龟壳
 31141200:神秘大乌龟壳
-31170000:盾牌 of the Guilty
+31170000:罪人盾
 31170100:厚重罪人盾
 31170200:锋利罪人盾
 31170300:优质罪人盾
@@ -30253,7 +30225,7 @@ unregistersymbol(CameraStateCheck)
 21520000:毒皮手套
 21530000:癫狂皮手套
 21540000:魔像拳头
-21550000:盾牌 of Night
+21550000:黑夜盾
 22500000:黑夜爪
 23500000:泥盆亚的大槌
 23510000:影轮草大花
@@ -30923,55 +30895,55 @@ GetValidIDs(0)
                           <Description>"wepmotionCategory"</Description>
                           <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">20:匕首
 23:直剑
-25:巨剑
-26:超巨剑
+25:大剑
+26:特大剑
 27:刺剑
-28:弯刀/弯刀GS
-29:武士刀
-30:斧头
-32:巨斧
-33:锤子
-34:匕首R1 1H
-35:巨锤
+28:曲剑GS
+29:刀
+30:斧
+32:大斧
+33:槌
+34:短剑R1 1H
+35:大槌
 36:矛
-37:匕首R1 1H+2H
+37:短剑R1 1H+2H
 38:长柄武器
-41:印记
+41:圣印记
 42:拳头
-43:鞭子
+43:鞭
 44:弓
-45:巨弓
+45:大弓
 46:十字弓
-47:巨盾
+47:大盾
 48:盾牌
 49:火炬
 50:镰刀
-51:弯曲巨剑
+51:大曲剑
 59:棍棒
-86:反手匕首
-99:特殊弯刀
+86:反手剑
+99:特殊曲剑
 101:弯刀
-102:特殊直刀
+102:特殊直剑
 103:屠刀
-107:黑骑士巨斧
+107:黑夜骑兵大斧
 108:戟R1
 146:爪子
-151:弯刀
-163:超巨剑
-164:弯刀
-166:弯曲巨剑
-171:巨锤
-177:伟大的兰斯
+151:曲剑
+163:特大剑
+164:曲剑
+166:大曲剑
+171:大槌
+177:大矛
 179:镰刀
 180:镰刀
 190:骨脆1H
 191:1H骨脆
-195:弯曲巨剑
+195:大曲剑
 210:棍棒？？
-220:R1棍/棒
+220:R1棍棒
 232:镰刀
-234:棍/棒
-235:反手匕首
+234:棍棒
+235:反手剑
 252:戟
 </DropDownList>
                           <ShowAsSigned>0</ShowAsSigned>
@@ -33078,11 +33050,11 @@ GetValidIDs(0)
 581000:亚兹勒辉石头冠
 581100:亚兹勒长袍
 581200:亚兹勒腕套
-590000:全部-Knowing Helm
-590100:全部-Knowing Armor
-590200:全部-Knowing Gauntlets
-590300:全部-Knowing Greaves
-591100:全部-Knowing Armor (Altered)
+590000:百智头盔
+590100:百智铠甲
+590200:百智臂甲
+590300:百智腿甲
+591100:百智铠甲（轻装）
 600000:孪生头盔
 600100:孪生铠甲
 600200:孪生臂甲
@@ -33116,11 +33088,11 @@ GetValidIDs(0)
 650300:霍斯劳腿甲
 651000:狄亚罗斯头盔
 652100:霍斯劳铠甲（轻装）
-660000:流浪骑士 Knight Helm
-660100:流浪骑士 Knight Armor
-660200:流浪骑士 Knight Gauntlets
-660300:流浪骑士 Knight Greaves
-661100:流浪骑士 Knight Armor (Altered)
+660000:流浪骑士头盔
+660100:流浪骑士铠甲
+660200:流浪骑士臂甲
+660300:流浪骑士腿甲
+661100:流浪骑士铠甲（轻装）
 670000:蓝布头巾
 670100:蓝布上衣
 670200:剑士臂甲
@@ -33238,7 +33210,6 @@ GetValidIDs(0)
 910300:魔法教授长裤
 911000:隐匿面具
 911100:魔法教授长袍（轻装）
-920000:Grass Hair Ornament
 930000:亡骨面具
 930100:猛禽黑羽
 930200:盗贼腕套
@@ -33419,11 +33390,6 @@ GetValidIDs(0)
 1940000:菲雅风帽
 1940100:菲雅长袍
 1941100:菲雅长袍（轻装）
-1950100:Millicent's Robe
-1950200:Millicent's Gloves
-1950300:Millicent's Boots
-1970100:Millicent's Tunic
-1970200:Golden Prosthetic
 
 1980000:强盗风帽
 1980100:强盗软铠甲
@@ -35939,7 +35905,7 @@ GetValidIDs(2)
 4100:爆碎岩盘
 4110:爆破岩盘
 4120:海摩大槌
-4130:Terra Magicus
+4130:魔法之境
 4140:星光
 4200:彗星亚兹勒
 4210:创星雨
@@ -36089,9 +36055,9 @@ GetValidIDs(2)
 7311:难耐癫火
 7320:划空癫火
 7330:夏玻利利的嘶吼
-7500:Aspects of the Crucible:Tail
-7510:Aspects of the Crucible:Horns
-7520:Aspects of the Crucible:Breath
+7500:熔炉百相之尾
+7510:熔炉百相之角
+7520:熔炉百相之喉袋
 7530:黑剑
 7900:火焰重罪
 7903:黄金雷防护
@@ -36176,58 +36142,58 @@ GetValidIDs(2)
 8223:罗杰尔的信
 8500:工具皮袋
 8590:砥石小刀
-8600:Map:Limgrave, West
-8601:Map:Weeping Peninsula
-8602:Map:Limgrave, East
-8603:Map:Liurnia, East
-8604:Map:Liurnia, North
-8605:Map:Liurnia, West
-8606:Map:Altus Plateau
-8607:Map:Leyndell, Royal Capital
-8608:Map:Mt. Gelmir
-8609:Map:Caelid
-8610:Map:Dragonbarrow
-8611:Map:Mountaintops of the Giants, West
-8612:Map:Mountaintops of the Giants, East
-8613:Map:Ainsel River
-8614:Map:Lake of Rot
-8615:Map:Siofra River
-8616:Map:Mohgwyn Palace
-8617:Map:Deeproot Depths
-8618:Map:Consecrated Snowfield
+8600:地图碎片：宁姆格福（西）
+8601:地图碎片：啜泣半岛
+8602:地图碎片：宁姆格福（东）
+8603:地图碎片：利耶尼亚（东）
+8604:地图碎片：利耶尼亚（北）
+8605:地图碎片：利耶尼亚（西）
+8606:地图碎片：亚坛高原
+8607:地图碎片：王城罗德尔
+8608:地图碎片：格密尔火山
+8609:地图碎片：盖利德
+8610:地图碎片：龙墓
+8611:地图碎片：巨人山顶（西）
+8612:地图碎片：巨人山顶（东）
+8613:地图碎片：安瑟尔河
+8614:地图碎片：腐败湖
+8615:地图碎片：希芙拉河
+8616:地图碎片：蒙格温王朝
+8617:地图碎片：深根底层
+8618:地图碎片：化圣雪原
 8660:海市蜃楼的谜题
-8700:Note:Hidden Cave
-8701:Note:Imp Shades
-8702:Note:Flask of Wondrous Physick
-8703:Note:Stonedigger Trolls
-8704:Note:Walking Mausoleum
-8705:Note:Unseen Assassins
-8706:Note:Great Coffins
-8707:Note:Flame Chariots
-8708:Note:Demi-human Mobs
-8709:Note:Land Squirts
-8710:Note:Gravity's Advantage
-8711:Note:Revenants
-8712:Note:Waypoint Ruins
-8713:Note:Gateway
-8714:Note:Miquella's Needle
-8715:Note:Frenzied Flame Village
-8716:Note:The Lord of Frenzied Flame
-8750:Note:Hidden Cave
-8751:Note:Imp Shades
-8752:Note:Flask of Wondrous Physick
-8753:Note:Stonedigger Trolls
-8754:Note:Walking Mausoleum
-8755:Note:Unseen Assassins
-8756:Note:Great Coffins
-8757:Note:Flame Chariots
-8758:Note:Demi-human Mobs
-8759:Note:Land Squirts
-8760:Note:Gravity's Advantage
-8761:Note:Revenants
-8762:Note:Waypoint Ruins
-8763:Note:Gateway
-8765:Note:Frenzied Flame Village
+8700:文件：关于隐藏洞窟
+8701:文件：关于小恶魔群的影子
+8702:文件：关于灵药圣杯瓶
+8703:文件：关于挖石山妖
+8704:文件：关于漫步灵庙
+8705:文件：关于看不见身影的刺客
+8706:文件：关于大棺木
+8707:文件：关于火焰战车
+8708:文件：关于亚人集团
+8709:文件：关于陆生海鞘
+8710:文件：关于重力的力量
+8711:文件：关于幽魂
+8712:文件：关于驿站街遗迹
+8713:文件：关于传送门
+8714:文件：关于米凯拉的针
+8715:文件：关于癫火村
+8716:文件：关于癫火之主
+8750:文件：关于隐藏洞窟
+8751:文件：关于小恶魔群的影子
+8752:文件：关于灵药圣杯瓶
+8753:文件：关于挖石山妖
+8754:文件：关于漫步灵庙
+8755:文件：关于看不见身影的刺客
+8756:文件：关于大棺木
+8757:文件：关于火焰战车
+8758:文件：关于亚人集团
+8759:文件：关于陆生海鞘
+8760:文件：关于重力的力量
+8761:文件：关于幽魂
+8762:文件：关于驿站街遗迹
+8763:文件：关于传送门
+8765:文件：关于癫火村
 8850:教室卷轴
 8851:王室卷轴
 8855:火焰习武修士祷告书
@@ -38279,7 +38245,7 @@ GetValidIDs(3)
 4100:爆碎岩盘
 4110:爆破岩盘
 4120:海摩大槌
-4130:Terra Magicus
+4130:魔法之境
 4140:星光
 4200:彗星亚兹勒
 4210:创星雨
@@ -38429,9 +38395,9 @@ GetValidIDs(3)
 7311:难耐癫火
 7320:划空癫火
 7330:夏玻利利的嘶吼
-7500:Aspects of the Crucible:Tail
-7510:Aspects of the Crucible:Horns
-7520:Aspects of the Crucible:Breath
+7500:熔炉百相之尾
+7510:熔炉百相之角
+7520:熔炉百相之喉袋
 7530:黑剑
 7900:火焰重罪
 7903:黄金雷防护
@@ -165975,13 +165941,13 @@ end
 8197:下水道监牢钥匙
 8198:会合用的地图
 8199:被丢弃的王室钥匙
-8200:Homing Instinct Painting
-8201:Resurrection Painting
-8202:Champion's Song Painting
-8203:Sorcerer Painting
-8204:Prophecy Painting
-8205:Flightless Bird Painting
-8206:Redmane Painting
+8200:绘画《归巢》
+8201:绘画《再世》
+8202:绘画《英雄之歌》
+8203:绘画《魔法师》
+8204:绘画《预言》
+8205:绘画《不飞之鸟》
+8206:绘画《红狮子》
 8221:泽菈雅丝的信
 8222:亚历山大的内容物
 8223:罗杰尔的信
@@ -166011,7 +165977,7 @@ end
 8701:文件：关于小恶魔群的影子
 8702:文件：关于灵药圣杯瓶
 8703:文件：关于挖石山妖
-8704:Note: Walking Mausoleum
+8704:文件：关于漫步灵庙
 8705:文件：关于看不见身影的刺客
 8706:文件：关于大棺木
 8707:文件：关于火焰战车
@@ -166028,7 +165994,7 @@ end
 8751:文件：关于小恶魔群的影子
 8752:文件：关于灵药圣杯瓶
 8753:文件：关于挖石山妖
-8754:Note: Walking Mausoleum
+8754:文件：关于漫步灵庙
 8755:文件：关于看不见身影的刺客
 8756:文件：关于大棺木
 8757:文件：关于火焰战车
@@ -168797,7 +168763,7 @@ end
 11100010:Envoy's Horn +10
 11110010:Scepter of the All-Knowing +10
 11120010:Nox Flowing Hammer +10
-11130010:戒指ed Finger +10
+11130010:戒指指头 +10
 11150010:Marika's Hammer +10
 12150010:Beastclaw Greathammer +10
 12160010:Envoy's Long Horn +10
@@ -170328,7 +170294,7 @@ end
 </DropDownList>
                           <ShowAsSigned>0</ShowAsSigned>
                           <VariableType>4 Bytes</VariableType>
-                          <Address>1bbdf10000c</Address>
+                          <Address>254e5630018</Address>
                         </CheatEntry>
                         <CheatEntry>
                           <ID>1337317006</ID>
@@ -170582,9 +170548,9 @@ end
 7311:难耐癫火
 7320:划空癫火
 7330:夏玻利利的嘶吼
-7500:Aspects of the Crucible:Tail
-7510:Aspects of the Crucible:Horns
-7520:Aspects of the Crucible:Breath
+7500:熔炉百相之尾
+7510:熔炉百相之角
+7520:熔炉百相之喉袋
 7530:黑剑
 7900:火焰重罪
 7903:黄金雷防护
@@ -172152,7 +172118,7 @@ end
 21520010:Poisoned Hand
 21530010:Madding Hand
 21540025:Golem Fist
-21550010:盾牌 of Night
+21550010:黑夜盾
 22500010:Claws of Night
 23500010:Devonia's Hammer
 23510010:Shadow Sunflower Blossom
