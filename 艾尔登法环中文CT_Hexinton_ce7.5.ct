@@ -24277,311 +24277,311 @@ unregistersymbol(WarpLocation)
             <CheatEntry>
               <ID>1337304716</ID>
               <Description>"选择赐福"</Description>
-              <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">1042362951:The First Step
-1037442950:Academy Gate Town
-1035462950:Academy Gate
-10002951:Margit, the Fell Omen
-10002952:Castleward Tunnel
-10002953:Gateside Chamber
-10002954:Stormveil Cliffside
-10002955:Rampart Tower
-10002956:Liftside Chamber
-10002957:Secluded Cell
-10002958:Stormveil Main Gate
-10012020:Chapel of Anticipation (New Game)
-11052950:Elden Throne
-11052951:Erdtree Sanctuary
-11052952:East Capital Rampart
-11052953:Leyendell, Capital of Ash
-11052954:Queen's Bedchamber
-11052955:Divine Bridge
-11102950:Table of Lost Grace
-12012950:Dragonkin Soldier of Nokstella
-12012951:Ainsel River Well Depths
-12012952:Ainsel River Sluice Gate
-12012953:Ainsel River Downstream
-12012954:Ainsel River Main
-12012955:Nokstella, Eternal City
-12012956:Lake of Rot Shoreside
-12012958:Grand Cloister
-12012959:Nokstella Waterfall Basin
-12022950:Great Waterfall Basin
-12022951:Mimic Tear
-12022953:Siofra River Bank
-12022954:Worshippers' Woods
-12022956:Ancestral Woods
-12022957:Aqueduct-Facing Cliffs
-12022958:Night's Sacred Ground
-12022959:Below the Well
-12032950:Prince of Death's Throne
-12032951:Root-Facing Cliffs
-12032952:Great Waterfall Crest
-12032953:Deeproot Depths
-12032954:The Nameless Eternal City
-12032955:Across the Roots
-12042950:Astel, Naturalborn of the Void
-12052950:Cocoon of the Empyrean
-12052951:Palace Approach Ledge-Road
-12052952:Dynasty Mausoleum Entrance
-12052953:Dynasty Mausoleum Midpoint
-12072950:Siofra River Well Depths
-12072951:Nokron, Eternal City
-13002950:Maliketh, the Black Blade
-13002951:Dragonlord Placidusax
-13002952:Dragon Temple Altar
-13002953:Crumbling Beast Grave
-13002954:Crumbling Beast Grave Depths
-13002955:Tempest-Facing Balcony
-13002956:Dragon Temple
-13002957:Dragon Temple Transept
-13002958:Dragon Temple Lift
-13002959:Dragon Temple Rooftop
-13002960:Beside the Great Bridge
-14002950:Raya Lucaria Grand Library
-14002951:Debate Parlour
-14002952:Church of the Cuckoo
-14002953:Schoolhouse Classroom
-15002950:Malenia, Godess of Rot
-15002951:Prayer Room
-15002952:Elphael Inner Wall
-15002953:Drainage Channel
-15002954:Haligtree Roots
-15002955:Haligtree Promenade
-15002956:Haligtree Canopy
-15002957:Haligtree Town
-15002958:Haligtree Town Plaza
-16002950:Rykard, Lord of Blasphemy
-16002951:Temple of Eiglay
-16002952:Volcano Manor
-16002953:Prison Town Church
-16002954:Guest Hall
-16002960:Audience Pathway
-16002962:Abductor Virgin
-16002964:Subterranean Inquisition Chamber
-18002950:Cave of Knowledge
-18002951:Stranded Graveyard
-19002950:Fractured Marika
-30002950:Tombsward Catacombs
-30012950:Impaler's Catacombs
-30022950:Stormfoot Catacombs
-30032950:Road's End Catacombs
-30042950:Murkwater Catacombs
-30052950:Black Knife Catacombs
-30062950:Cliffbottom Catacombs
-30072950:Wyndham Catacombs
-30082950:Sainted Hero's Grave
-30092950:Gelmir Hero's Grave
-30102950:Auzira Hero's Grave
-30112950:Deathtouched Catacombs
-30122950:Unsightly Catacombs
-30132950:Auriza Side Tomb
-30142950:Minor Eerdtree Catacombs
-30152950:Caelid Catacombs
-30162950:War-Dead Catacombs
-30172950:Giant-Conquering Hero's Grave
-30182950:Giant's Mountaintop Catacombs
-30192950:Consecrated Snowfield Catacombs
-30202950:Hidden Path to the Haligtree
-31002950:Murkwater Cave
-31012950:Earthbore Cave
-31022950:Tombsward Cave
-31032950:Groveside Cave
-31042950:Stillwater Cave
-31052950:Lakeside Crystal Cave
-31062950:Academy Crystal Cave
-31072950:Seethewater Cave
-31092950:Volcano Cave
-31102950:Dragonbarrow Cave
-31112950:Sellia Hideaway
-31122950:Cave of the Forlorn
-31152950:Coastal Cave
-31172950:Highroad Cave
-31182950:Perfumer's Grotto
-31192950:Sage's Cave
-31202950:Abandoned Cave
-31212950:Gaol Cave
-31222950:Spiritcaller's Cave
-32002950:Morne Tunnel
-32012950:Limgrave Tunnels
-32022950:Raya Lucaria Crystal Tunnel
-32042950:Old Altus Tunnel
-32052950:Altus Tunnel
-32072950:Gael Tunnel
-32072951:Rear Gael Tunnel Entrance
-32082950:Sellia Crystal Tunnel
-32112950:Yelough Anix Tunnel
-34102950:Limgrave Tower Bridge
-34102952:Divine Tower of Limgrave
-34112950:Study Hall Entrance
-34112951:Liurnia Tower Bridge
-34112952:Divine Tower of Liurnia
-34122950:Divine Tower of West Altus
-34122951:Sealed Tunnel
-34122952:Divine Tower of West Altus: Gate
-34132951:Divine Tower of Caelid: Basement
-34132952:Divine Tower of Caelid: Center
-34142950:Divine Tower of the East Altus: Gate
-34142951:Divine Tower of the East Altus
-34152950:Isolated Divine Tower
-35002950:Cathedral of the Forsaken
-35002951:Underground Roadside
-35002952:Forsaken Depths
-35002953:Leyndell Catacombs
-35002954:Frenzied Flame Proscription
-39202950:Magma Wyrm
-39202951:Ruin-Strewn Precipice
-39202952:Ruin-Strewn Precipice Overlook
-1033402950:Altar South
-1033442950:Revenger's Shack
-1033462950:Foot of the Four Belfries
-1033472950:The Four Belfries
-1034412950:Moonlight Altar
-1034422950:Village of the Albinaurics
-1034432950:Converted Tower
-1034442950:Temple Quarter
-1034462950:Crystalline Woods
-1034472951:Sorcerer's Isle
-1034482950:Northern Liurnia Lake Shore
-1034492950:Road to the Manor
-1034502950:Ranni's Rise
-1034502951:Ranni's Chamber
-1035422950:Cathedral of Manus Celes
-1035432950:Folly on the Lake
-1035452950:South Raya Lucaria Gate
-1035472950:East Gate Bridge Trestle
-1035502950:Manor Upper Level
-1035502951:Manor Lower Level
-1035502952:Royal Moongazing Grounds
-1035502953:Main Caria Manor Gate
-1035532950:Seethewater Terminus
-1036412950:Slumbering Wolf Shack
-1036432950:Boilprawn Shack
-1036432951:Fallen Ruins of the Lake
-1036452950:Gate Town North
-1036482950:East Raya Lucaria Gate
-1036492950:Bellum Church
-1036492951:The Ravine
-1036502950:Behind Caria Manor
-1036522950:Craftsman's Shack
-1036542951:Ninth Mt. Gelmir Campsite
-1036542952:Road of Iniquity
-1037422950:Scenic Isle
-1037462950:Church of Vows
-1037482950:Mausoleum Compound
-1037492950:Church of Inhibition
-1037512950:Abandoned Coffin
-1037522951:Seethewater River
-1037532950:Primeval Sorcerer Azur
-1038402950:Liurnia Lake Shore
-1038412950:Laskyar Ruins
-1038432950:Gate Town Bridge
-1038452950:Artist's Shack
-1038452951:Eastern Liurnia Lake Shore
-1038462950:Eastern Tableland
-1038472950:Ruined Labyrinth
-1038482950:Frenzied Flame Village Outskirts
-1038502950:Grand Lift of Dectus
-1038502951:Ravine-Veiled Village
-1038502952:Altus Plateau
-1038512950:Erdtree-Gazing Hill
-1038542950:First Mt. Gelmir Campsite
-1039402950:Lake-Facing Cliffs
-1039412950:Liurnia Highway South
-1039422950:Liurnia Highway North
-1039442950:Jarburg
-1039512950:Altus Highway Junction
-1039532950:Bridge of Iniquity
-1039542950:Shaded Castle Ramparts
-1039542951:Shaded Castle Inner Gate
-1039542952:Castellan's Hall
-1040522950:Forest-Spanning Greatbridge
-1040532950:敬礼er of Bounty
-1040542950:Road of Iniquity Side Path
-1041322950:Isolated Merchant's Shack
-1041332950:Fourth Church of Marika
-1041352950:Church of Dragon Communion
-1041382950:Stormhill Shack
-1041522951:Rampartside Path
-1041542950:Windmill Village
-1042332950:Tombsward
-1042362950:Church of Elleh
-1042372950:Gatefront
-1042382950:Warmaster's Shack
-1042512950:Outer Wall Phantom Tree
-1042552950:Windmill Heights
-1043302950:Morne Moangrave
-1043312950:Castle Morne Lift
-1043312951:Behind The Castle
-1043312952:Beside the Rampart Gaol
-1043342950:Church of Pilgrimage
-1043352950:Seaside Ruins
-1043372950:Agheel Lake North
-1043382950:Murkwater Coast
-1043392950:Saintsbridge
-1043502950:Minor Eerdtree Church
-1043532950:Hermit Merchant's Shack
-1043532951:Outer Wall Battleground
-1044332950:Castle Morne Rampart
-1044332951:South of the Lookout Tower
-1044332952:Ailing Village Outskirts
-1044342950:Bridge of Sacrifice
-1044352950:Agheel Lake South
-1044362950:Waypoint Ruins Cellar
-1044372950:Mistwood Outskirts
-1044382950:Artist's Shack
-1044392950:Summonwater Village Outskirts
-1045332950:Beside the Crater-Pocked Glade
-1045362950:Fort Haight West
-1045522950:Capital Rampart
-1046382950:Third Church of Marika
-1046402950:Smoldering Church
-1046402951:Rotview Balcony
-1047392950:Fort Gael North
-1047402950:Caelem Ruins
-1047512950:Forbidden Lands
-1047582950:Apostate Derelict
-1048362950:Cathedral of Dragon Communion
-1048372950:Caelid Highway South
-1048382950:Aeonia Swamp Shore
-1048382951:Astray from Caelid Highway North
-1048392950:Smoldering Wall
-1048402950:Deep Siofra Well
-1048402951:Dragonbarrow West
-1048412950:Isolated Merchant's Shack
-1048572950:Ordina, Liturgical Town
-1049372950:Southern Aeonia Swamp Bank
-1049382950:Heart of Aeonia
-1049382951:Inner Aeonia
-1049392950:Sellia Backstreets
-1049392951:Chair-Crypt of Sellia
-1049392952:Sellia Under-Stair
-1049532950:Zamor Ruins
-1049532951:Grand Lift of Rold
-1049542950:Consecrated Snowfield
-1049552950:Inner Consecrated Snowfield
-1050362950:Impassable Greatbridge
-1050382950:Church of the Plague
-1050402950:Dragonbarrow Fork
-1051362950:Redmane Castle Plaza
-1051362951:Chamber Outside the Plaza
-1051392950:Fort Faroth
-1051432950:Bestial Sanctum
-1051532950:Church of Repose
-1051562950:Ancient Snow Valley Ruins
-1051572950:Snow Valley Ruins Overlook
-1051572951:Castle Sol Main Gate
-1051572952:Church of the Eclipse
-1051572953:Castle Sol Rooftop
-1052382950:Starscourge Radahn
-1052412950:Lenne's Rise
-1052422950:Farum Greatbridge
-1052532950:Foot of the Forge
-1052542950:Giant's Gravepost
-1052562950:Whiteridge Road
-1052572950:Freezing Lake
-1053522950:Fire Giant
-1054532950:Forge of the Giants
-1054552950:First Church of Marika
+              <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">1042362951:引导之始
+1037442950:学院门前镇
+1035462950:学院正门口
+10002951:“恶兆妖鬼”玛尔基特
+10002952:通城隧道
+10002953:门旁小屋
+10002954:史东薇尔断崖
+10002955:城墙塔
+10002956:升降机旁房间
+10002957:深处小房间
+10002958:史东薇尔正门
+10012020:候王礼拜堂
+11052950:艾尔登宝座
+11052951:黄金树大教堂
+11052952:王城东边城墙
+11052953:“灰烬王城”罗德尔
+11052954:女王闺阁
+11052955:神授桥
+11102950:大赐福
+12012950:诺克史黛拉的龙人士兵
+12012951:安瑟尔河（井底）
+12012952:安瑟尔河（水门）
+12012953:安瑟尔河（下游）
+12012954:安瑟尔河主流
+12012955:“永恒之城”诺克史黛拉
+12012956:腐败湖畔
+12012958:大回廊
+12012959:诺克史黛拉水潭
+12022950:大瀑布水潭
+12022951:仿身泪滴
+12022953:希芙拉河（岸边）
+12022954:信仰者森林
+12022956:祖灵森林
+12022957:导水桥旁断崖
+12022958:黑夜神域
+12022959:出口井的下方
+12032950:死王子宝座
+12032951:树根旁断崖
+12032952:大瀑布顶端
+12032953:深根底层
+12032954:无名永恒之城
+12032955:树根前路
+12042950:“黑暗弃子”艾丝缇
+12052950:神人坠眠之茧
+12052951:通往王朝的崖上道路
+12052952:王朝灵庙（入口）
+12052953:王朝灵庙（中段）
+12072950:希芙拉河（井底）
+12072951:“永恒之城”诺克隆恩
+13002950:“黑剑”玛利喀斯
+13002951:“龙王”普拉顿桑克斯
+13002952:龙教堂祭坛
+13002953:渐毁野兽墓
+13002954:渐毁野兽墓（深处）
+13002955:龙卷旁露台
+13002956:龙教堂
+13002957:龙教堂（耳堂）
+13002958:龙教堂（升降机前）
+13002959:龙教堂（屋顶）
+13002960:大桥侧边
+14002950:雷亚卢卡利亚大书库
+14002951:讨论室
+14002952:杜鹃教堂
+14002953:校舍内的教室
+15002950:“腐败女神”玛莲妮亚
+15002951:祈祷室
+15002952:艾布雷菲尔城墙内部
+15002953:排水通道
+15002954:圣树底层
+15002955:圣树大舞台
+15002956:圣树树冠
+15002957:圣树镇
+15002958:圣树镇（广场）
+16002950:“亵渎君王”拉卡德
+16002951:艾格蕾教堂
+16002952:火山官邸
+16002953:牢镇教堂
+16002954:迎宾厅
+16002960:谒见之路
+16002962:掳人少女人偶
+16002964:地底拷问所
+18002950:求学洞窟
+18002951:漂流墓地
+19002950:濒毁玛莉卡
+30002950:灵庙原野地下墓地
+30012950:穿刺地下墓地
+30022950:风暴根脚的地下墓地
+30032950:绝路地下墓地
+30042950:蒙流地下墓地
+30052950:黑刀地下墓地
+30062950:断崖下的地下墓地
+30072950:威达姆地下墓地
+30082950:尊贵者的英雄墓地
+30092950:格密尔英雄墓地
+30102950:亚雷萨英雄墓地
+30112950:死亡降临的地下墓地
+30122950:丑恶地下墓地
+30132950:亚雷萨副墓地
+30142950:小黄金树地下墓地
+30152950:盖利德地下墓地
+30162950:英灵地下墓地
+30172950:巨人战争的英雄墓地
+30182950:巨人山顶地下墓地
+30192950:化圣雪原地下墓地
+30202950:通往圣树的密道
+31002950:蒙流洞窟
+31012950:垂穴洞窟
+31022950:灵庙原野洞窟
+31032950:近林洞窟
+31042950:留水洞窟
+31052950:湖旁结晶洞窟
+31062950:学院结晶洞窟
+31072950:沸滚河洞窟
+31092950:火山洞窟
+31102950:龙墓洞窟
+31112950:瑟利亚隐藏洞窟
+31122950:安身洞窟
+31152950:海岸洞窟
+31172950:大道下的洞窟
+31182950:调香师的隐藏洞窟
+31192950:贤者的洞窟
+31202950:废弃洞窟
+31212950:牢狱洞窟
+31222950:唤灵洞窟
+32002950:摩恩坑道
+32012950:宁姆格福坑道
+32022950:雷亚卢卡利亚结晶坑道
+32042950:旧亚坛坑道
+32052950:亚坛坑道
+32072950:盖尔坑道
+32072951:盖尔坑道（侧门口）
+32082950:瑟利亚结晶坑道
+32112950:耶罗·亚尼斯坑道
+34102950:宁姆格福神授塔（桥上）
+34102952:宁姆格福神授塔
+34112950:书斋入口
+34112951:利耶尼亚神授塔（桥上）
+34112952:利耶尼亚神授塔
+34122950:西亚坛神授塔
+34122951:封印坑道
+34122952:西亚坛神授塔（门口）
+34132951:盖利德神授塔（地底）
+34132952:盖利德神授塔（中段）
+34142950:东亚坛神授塔（门口）
+34142951:东亚坛神授塔
+34152950:孤立神授塔
+35002950:弃置恶兆的大教堂
+35002951:地底大道旁
+35002952:弃置恶兆的底层
+35002953:罗德尔地下墓地
+35002954:癫火封印
+39202950:熔岩土龙
+39202951:古遗迹断崖
+39202952:古遗迹断崖（对岸）
+1033402950:祭坛南方
+1033442950:复仇者的破屋
+1033462950:四钟楼山脚
+1033472950:四钟楼
+1034412950:月光祭坛
+1034422950:白金村
+1034432950:改宗塔
+1034442950:教堂区
+1034462950:结晶森林
+1034472951:魔法师塔的小岛
+1034482950:利耶尼亚湖（北岸）
+1034492950:通往城寨的道路
+1034502950:菈妮魔法师塔
+1034502951:菈妮的房间
+1035422950:玛努斯·瑟利斯大教堂
+1035432950:湖畔凉亭
+1035452950:雷亚卢卡利亚（南门）
+1035472950:东门桥的桥柱
+1035502950:城寨上部
+1035502951:城寨下部
+1035502952:王室赏月地
+1035502953:卡利亚城寨（正门）
+1035532950:沸滚河终点
+1036412950:眠狼的破屋
+1036432950:煮虾子的破屋
+1036432951:湖中坠落遗迹
+1036452950:门前镇的北方
+1036482950:雷亚卢卡利亚（东门）
+1036492950:彼鲁姆教堂
+1036492951:谷底
+1036502950:卡利亚城寨（后方）
+1036522950:匠人的破屋
+1036542951:格密尔火山（第９休息站）
+1036542952:移送罪人之路
+1037422950:远眺岛
+1037462950:结缘教堂
+1037482950:群集灵庙
+1037492950:镇静教堂
+1037512950:弃置棺材
+1037522951:沸滚河
+1037532950:“起源魔法师”亚兹勒
+1038402950:利耶尼亚湖（湖边）
+1038412950:拉斯卡废墟
+1038432950:门前镇大桥
+1038452950:画家的破屋
+1038452951:利耶尼亚湖（东岸）
+1038462950:东边台地
+1038472950:遗迹迷宫
+1038482950:癫火村外
+1038502950:迪可达斯大升降机
+1038502951:谷底秘村
+1038502952:亚坛高原
+1038512950:近黄金树的山丘
+1038542950:格密尔火山（第１休息站）
+1039402950:傍湖断崖
+1039412950:利耶尼亚大道（南方）
+1039422950:利耶尼亚大道（北方）
+1039442950:壶村
+1039512950:亚坛大道的三叉口
+1039532950:罪人桥
+1039542950:日荫城（城墙）
+1039542951:日荫城（内门）
+1039542952:城主大厅
+1040522950:穿林大桥
+1040532950:丰饶森林
+1040542950:移送罪人之路（路旁）
+1041322950:隐居商人的破屋
+1041332950:玛莉卡第四教堂
+1041352950:龙飨教堂
+1041382950:风暴山丘的破屋
+1041522951:城墙旁小径
+1041542950:风车村
+1042332950:灵庙原野
+1042362950:艾雷教堂
+1042372950:关卡前方
+1042382950:习战者的破屋
+1042512950:城外幻影树
+1042552950:风车村高台
+1043302950:摩恩悲叹墓
+1043312950:摩恩城（升降机前方）
+1043312951:城堡后方
+1043312952:城墙监牢旁
+1043342950:巡礼教堂
+1043352950:傍海古遗迹
+1043372950:亚基尔湖北方
+1043382950:蒙流岸边
+1043392950:圣人桥
+1043502950:小黄金树教堂
+1043532950:遁世商人的破屋
+1043532951:城外战场遗迹
+1044332950:摩恩城（城墙前方）
+1044332951:监视塔的南方
+1044332952:病村外
+1044342950:献祭大桥
+1044352950:亚基尔湖南方
+1044362950:驿站街遗迹的地下室
+1044372950:雾林边缘
+1044382950:画家的破屋
+1044392950:水唤村外
+1045332950:地坑旁
+1045362950:海德要塞西方
+1045522950:王城城墙前方
+1046382950:玛莉卡第三教堂
+1046402950:熏火教堂
+1046402951:腐败旁露台
+1047392950:盖尔要塞北方
+1047402950:奇列姆废墟
+1047512950:禁域
+1047582950:离教废屋
+1048362950:大龙飨教堂
+1048372950:盖利德大道南方
+1048382950:艾奥尼亚沼泽（岸边）
+1048382951:盖利德大道北方（偏离大道后）
+1048392950:熏烧火墙
+1048402950:希芙拉河的出口井
+1048402951:龙墓西方
+1048412950:隐居商人的破屋
+1048572950:“仪典镇”奥缇那
+1049372950:艾奥尼亚沼泽（南岸）
+1049382950:艾奥尼亚中心地
+1049382951:艾奥尼亚沼泽（深处）
+1049392950:瑟利亚镇后侧
+1049392951:瑟利亚椅子庙
+1049392952:瑟利亚镇（楼梯下方）
+1049532950:萨米尔废墟
+1049532951:洛德大升降机
+1049542950:化圣雪原
+1049552950:化圣雪原（深处）
+1050362950:不破大桥
+1050382950:腐败病教堂
+1050402950:龙墓的岔路
+1051362950:红狮子城（广场）
+1051362951:广场前房间
+1051392950:法洛斯要塞
+1051432950:野兽神殿
+1051532950:安歇教堂
+1051562950:古遗迹降雪谷
+1051572950:古遗迹山谷的山崖上
+1051572951:索尔城（正门）
+1051572952:日蚀教堂
+1051572953:索尔城（屋顶）
+1052382950:“碎星”拉塔恩
+1052412950:雷恩魔法师塔
+1052422950:法姆大桥
+1052532950:火焰大锅下方
+1052542950:巨人墓碑
+1052562950:降雪棱线路
+1052572950:结冰湖
+1053522950:火焰巨人
+1054532950:巨人火焰大锅
+1054552950:玛莉卡第一教堂
 20000:Tower Settlement
 20010:Enir-Ilim
 21000:Shadow Keep
